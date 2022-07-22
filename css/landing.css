@@ -124,13 +124,13 @@ a {
 /* steps */
 
 .steps {
-	color: #949eb0;
+	color: #06988e;
 }
 
 .steps .subtitle {
 	font-size: 33px;
 	font-weight: 700;
-	color: #808a9b;
+	color: #06988e;
 	text-align: center;
 	margin-top: 0;
 	margin-bottom: 50px;
@@ -150,7 +150,7 @@ a {
 	width: 22px;
 	height: 22px;
 	color: #fff;
-	background-color: #e7eaed;
+	background-color: #06988e;
 	border-radius: 50%;
 	display: flex;
 	justify-content: center;
