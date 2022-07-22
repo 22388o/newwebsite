@@ -53,7 +53,7 @@ a {
 
 .jumbotron2 {
 	background: linear-gradient(-180deg, rgb(6, 152, 142) 0%, rgba(6, 152, 142) 80%), linear-gradient(-96deg, rgba(237, 35, 135, 1) 0%, rgb(74,193,216) 100%);
-	color: white;
+	color: green;
 	padding-bottom: 200px;
 }
 
