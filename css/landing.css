@@ -53,7 +53,7 @@ a {
 
 .jumbotron2 {
 	background: linear-gradient(-180deg, rgb(6, 152, 142) 0%, rgba(6, 152, 142) 80%), linear-gradient(-96deg, rgba(237, 35, 135, 1) 0%, rgb(74,193,216) 100%);
-	color: green;
+	color: white;
 	padding-bottom: 200px;
 }
 
@@ -124,13 +124,13 @@ a {
 /* steps */
 
 .steps {
-	color: #06988e;
+	color: #949eb0;
 }
 
 .steps .subtitle {
 	font-size: 33px;
 	font-weight: 700;
-	color: #06988e;
+	color: #808a9b;
 	text-align: center;
 	margin-top: 0;
 	margin-bottom: 50px;
@@ -150,7 +150,7 @@ a {
 	width: 22px;
 	height: 22px;
 	color: #fff;
-	background-color: #06988e;
+	background-color: #e7eaed;
 	border-radius: 50%;
 	display: flex;
 	justify-content: center;
@@ -160,7 +160,7 @@ a {
 /* advantage */
 
 .advantage {
-	color: #06988e;
+	color: #949eb0;
 	text-align: center;
 	padding-top: 0;
 }
@@ -168,7 +168,7 @@ a {
 .advantage .subtitle {
 	font-size: 33px;
 	font-weight: 700;
-	color: #06988e;
+	color: #808a9b;
 	margin: 0 auto 30px;
 }
 
